@@ -23,23 +23,21 @@ The average number of pizzas ordered per order.
 ## Informative Charts
 
 ### Percentage of Sales by Pizza Category
-![Percentage of Sales by Pizza Category](link_to_image1)
+![Percentage of Sales by Pizza Category]
 
 ### Percentage of Sales by Pizza Size
-![Percentage of Sales by Pizza Size](link_to_image2)
+![Percentage of Sales by Pizza Size]
 
 ### Weekly Trend for Total Orders
-![Weekly Trend for Total Orders](link_to_image3)
+![Weekly Trend for Total Orders]
 
 ### Hour Trend for Total Pizzas Sold
-![Hour Trend for Total Pizzas Sold](link_to_image4)
+![Hour Trend for Total Pizzas Sold]
 
 ### Top 5 Best Sold Pizzas
-![Top 5 Best Sold Pizzas](link_to_image5)
-
+![Top 5 Best Sold Pizzas]
 ### Bottom 5 Least Sold Pizzas
-![Bottom 5 Least Sold Pizzas](link_to_image6)
-
+![Bottom 5 Least Sold Pizzas]
 ## Insights
 
 - The Classic category is the most selling category, while Chicken is the least selling category.
